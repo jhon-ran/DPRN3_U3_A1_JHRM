@@ -1,12 +1,13 @@
 # DPRN3_U3_A1_JHRM
-Programa que se conecta a una BD remota de MySQL  y muestra datos en un grid (read only)
+Programa que se conecta a una BD remota de MySQL, filtra datos y los vacia a una DB local 2 grids
 
 ## Interfaz gráfica
-Consta de una sola ventana que carga los datos de una base de datos remota MySQL. Muestra todos los registros.
+Consta de dos ventana, una que carga los datos de una base de datos remota MySQL y muestra todos los registros. En la segunda se hace un filtrado y se vacia a un BD local.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38293508/190807581-50f73a32-b206-42e2-8dd8-90ecb879853a.png"/>
+  <img src="https://user-images.githubusercontent.com/38293508/192294454-a6942015-3e2d-440b-b248-36c7ae618650.png"/>
 </p>
+![image](https://user-images.githubusercontent.com/38293508/192294454-a6942015-3e2d-440b-b248-36c7ae618650.png)
 
 
 ## Base de datos
